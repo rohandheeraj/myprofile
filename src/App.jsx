@@ -31,7 +31,7 @@ const profileInfo = {
   phone: "+971585585873",
   linkedin: "https://www.linkedin.com/in/rohandheeraj/",
   github: "https://github.com/rohandheeraj", // Placeholder, user will add
-  cvLink: "#", // Link to CV file
+  cvLink: "/docs/rohan_cv.pdf",
   bio: "A passionate Mechatronics Engineering student at Manipal Dubai with a strong foundation in robotics, automation, and hardware integration. Known for hands-on project experience, including a 1st place win at IROS 2024 and active roles in international competitions like MATE ROV and ERC.",
   subBio: "Proficient in tools like ROS, Python, and Fusion 360, and skilled in both design and prototyping. I thrive in collaborative environments where innovative problem-solving and rapid iteration are key, and I'm driven by a deep curiosity for building intelligent machines that make a real-world impact."
 };
